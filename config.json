@@ -1,0 +1,12 @@
+{
+    "s3BucketName"  : "einvois.io",
+    "backupDir"     :"/home/opadmin/AMS/DB2S3/",
+    "pgUser"        :"postgres",
+    "pgPassword"    :"Cray@2024",
+    "pgHost"        :"localhost",
+    "pgPort"        :"5432",
+	"awsRegion"     : "ap-southeast-1",
+	"accessKey"     : "",
+	"secretKey"     : ""
+
+}
